@@ -1,15 +1,43 @@
 # Hi, I'm Afsana Jamal 👋
 
-Full-Stack Software Engineer based in Tokyo, Japan.
+Full-Stack Software Engineer based in Tokyo 🇯🇵
 
-I have 5+ years of experience building web applications in Japanese technology companies. My work includes frontend development with React, Next.js, and Vue.js, as well as backend development with FastAPI and Laravel.
+## Professional Summary
+
+Full-Stack Software Engineer with 5+ years of experience building production web applications in Japanese technology companies.
+Specialized in modern web platforms using **React / Next.js / Vue.js** on the frontend and **FastAPI / Laravel** on the backend.
+Experienced in building **real-time systems, scalable APIs, and cloud-deployed platforms using AWS and CI/CD pipelines**.
 
 ## Tech Stack
-- Frontend: React, Next.js, Vue.js, Nuxt, TypeScript, JavaScript
-- Backend: FastAPI, Laravel, Node.js
-- Database: PostgreSQL, MySQL, Redis
-- Cloud / DevOps: AWS, Docker, GitHub Actions, CI/CD
-- Other: WebSockets, REST APIs, Git, Agile / Scrum
+
+**Frontend**
+- React
+- Next.js
+- Vue.js
+- Nuxt
+- TypeScript
+- JavaScript
+
+**Backend**
+- FastAPI
+- Laravel
+- Node.js
+
+**Database**
+- PostgreSQL
+- MySQL
+- Redis
+
+**Cloud & DevOps**
+- AWS
+- Docker
+- GitHub Actions
+- CI/CD
+
+**Other**
+- WebSockets
+- REST APIs
+- Agile / Scrum
 
 ## Current Focus
 - Full-stack web application development
@@ -21,8 +49,25 @@ I have 5+ years of experience building web applications in Japanese technology c
 - Virtual Power Plant monitoring platform
 - Live streaming and event management system
 - COVID-19 health data monitoring system
+- 
+## Featured Projects
+
+### Virtual Power Plant Platform
+Renewable energy monitoring platform for tracking solar battery devices in real-time.
+Tech: React, Next.js, FastAPI, PostgreSQL, WebSockets
+---
+### Event Streaming & Ticket Management System
+Live streaming platform with booking and event management functionality.
+Tech: Vue.js, Laravel, Redis, WebSockets
+---
+### Portfolio Platform (Full-Stack)
+Multi-tenant portfolio management system with JWT authentication and role-based access control.
+Tech: Next.js, FastAPI, PostgreSQL
 
 ## Languages
 - English
 - Japanese (Business level / N3)
 - Bengali
+
+  ## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=afsanajamal&show_icons=true)
