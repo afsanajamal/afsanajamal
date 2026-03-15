@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Afsana 👋
 
-<!--
-**afsanajamal/afsanajamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Software Engineer based in Tokyo.
 
-Here are some ideas to get you started:
+## Tech Stack
+- React / Next.js / Vue.js
+- FastAPI / Laravel
+- TypeScript / Python / PHP
+- PostgreSQL / MySQL / Redis
+- AWS / Docker / CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+5+ years building web applications in Japanese tech companies.
+
+Currently working on a **Virtual Power Plant platform** for monitoring renewable energy systems.
+
+## Key Projects
+- Virtual Power Plant Monitoring Platform
+- Live Streaming Event Management System
+- COVID-19 Health Data Monitoring System
