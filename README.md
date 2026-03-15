@@ -39,11 +39,11 @@ Experienced in building **real-time systems, scalable APIs, and cloud-deployed p
 - REST APIs
 - Agile / Scrum
 
-## Current Focus
+## Engineering Focus
 - Full-stack web application development
-- Real-time systems
-- Renewable energy platform development
-- Scalable and maintainable product engineering
+- Real-time systems and event-driven architecture
+- Scalable API design
+- Cloud-based platforms on AWS
 
 ## Project Experience
 - Virtual Power Plant monitoring platform
@@ -68,6 +68,3 @@ Tech: Next.js, FastAPI, PostgreSQL
 - English
 - Japanese (Business level / N3)
 - Bengali
-
-  ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=afsanajamal&show_icons=true)
