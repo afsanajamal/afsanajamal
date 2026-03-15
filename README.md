@@ -1,20 +1,28 @@
-# Hi, I'm Afsana 👋
+# Hi, I'm Afsana Jamal 👋
 
-Full-Stack Software Engineer based in Tokyo.
+Full-Stack Software Engineer based in Tokyo, Japan.
+
+I have 5+ years of experience building web applications in Japanese technology companies. My work includes frontend development with React, Next.js, and Vue.js, as well as backend development with FastAPI and Laravel.
 
 ## Tech Stack
-- React / Next.js / Vue.js
-- FastAPI / Laravel
-- TypeScript / Python / PHP
-- PostgreSQL / MySQL / Redis
-- AWS / Docker / CI/CD
+- Frontend: React, Next.js, Vue.js, Nuxt, TypeScript, JavaScript
+- Backend: FastAPI, Laravel, Node.js
+- Database: PostgreSQL, MySQL, Redis
+- Cloud / DevOps: AWS, Docker, GitHub Actions, CI/CD
+- Other: WebSockets, REST APIs, Git, Agile / Scrum
 
-## Experience
-5+ years building web applications in Japanese tech companies.
+## Current Focus
+- Full-stack web application development
+- Real-time systems
+- Renewable energy platform development
+- Scalable and maintainable product engineering
 
-Currently working on a **Virtual Power Plant platform** for monitoring renewable energy systems.
+## Project Experience
+- Virtual Power Plant monitoring platform
+- Live streaming and event management system
+- COVID-19 health data monitoring system
 
-## Key Projects
-- Virtual Power Plant Monitoring Platform
-- Live Streaming Event Management System
-- COVID-19 Health Data Monitoring System
+## Languages
+- English
+- Japanese (Business level / N3)
+- Bengali
